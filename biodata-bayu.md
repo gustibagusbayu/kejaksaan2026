@@ -8,7 +8,7 @@ Instansi : Kejaksaan Negeri Kota Gorontalo </br>
 Jabatan : Prakom Ahli Pertama </br>
 Sosial Media : s.id/harun
 ---
-Nama : Arie IT Bali </br>
+Nama : Bom Bom </br>
 Instansi : Kejaksaan Negeri Kajarta </br>
 Jabatan : Prakom Ahli Pertama </br>
 Sosial Media : iwayans (immortal person)
