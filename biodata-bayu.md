@@ -1,4 +1,4 @@
-Nama : Bayu Adi Pramana
-Instansi : Kejaksaan Negeri Badung
-Jabatan : Prakom Ahli Pertama
+Nama : Bayu Adi Pramana </br>
+Instansi : Kejaksaan Negeri Badung </br>
+Jabatan : Prakom Ahli Pertama </br>
 Sosial Media : s.id/bayu
