@@ -28,3 +28,8 @@ Instansi : Kejaksaan Negeri Kota Tangerang </br>
 Jabatan : Prakom Ahli Pertama </br>
 Sosial Media : s.id/mei
 ---
+Nama : Rizki Nofianty Tanjung </br>
+Instansi : Kejaksaan Negeri Subulussalam </br>
+Jabatan : Prakom Ahli Pertama </br>
+Sosial Media : s.id/pia
+---
