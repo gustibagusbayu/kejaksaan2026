@@ -11,7 +11,7 @@ Sosial Media : s.id/harun
 Nama : Arie IT Bali </br>
 Instansi : Kejaksaan Negeri Kajarta </br>
 Jabatan : Prakom Ahli Pertama </br>
-Sosial Media : iwayans
+Sosial Media : iwayans (immortal person)
 ----
 Nama : Mirta Amalia </br>
 Instansi : Kejaksaan RI </br>
