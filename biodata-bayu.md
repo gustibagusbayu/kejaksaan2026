@@ -17,3 +17,8 @@ Nama : Mirta Amalia </br>
 Instansi : Kejaksaan RI </br>
 Satuan Kerja : Kejaksaan Negeri Simeulue </br>
 Jabatan : Prakom Ahli Pertama </br>
+----
+Nama : Gregorian Hiroshi Pakaya </br>
+Instansi : Kejaksaan Negeri Kabupaten Gorontalo </br>
+Jabatan : Prakom Ahli Pertama </br>
+Sosial Media : @gh_pakaya
