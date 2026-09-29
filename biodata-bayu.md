@@ -22,3 +22,9 @@ Nama : Gregorian Hiroshi Pakaya </br>
 Instansi : Kejaksaan Negeri Kabupaten Gorontalo </br>
 Jabatan : Prakom Ahli Pertama </br>
 Sosial Media : @gh_pakaya
+---
+Nama : Meitiana Audya </br>
+Instansi : Kejaksaan Negeri Kota Tangerang </br>
+Jabatan : Prakom Ahli Pertama </br>
+Sosial Media : s.id/mei
+---
