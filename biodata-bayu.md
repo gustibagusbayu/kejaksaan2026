@@ -12,3 +12,8 @@ Nama : Arie IT Bali </br>
 Instansi : Kejaksaan Negeri Kajarta </br>
 Jabatan : Prakom Ahli Pertama </br>
 Sosial Media : iwayans
+----
+Nama : Mirta Amalia </br>
+Instansi : Kejaksaan RI </br>
+Satuan Kerja : Kejaksaan Negeri Simeulue </br>
+Jabatan : Prakom Ahli Pertama </br>
